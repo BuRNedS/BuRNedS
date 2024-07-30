@@ -37,7 +37,12 @@
 
  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burneds&" alt="burneds" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burneds&show_icons=true&locale=en&layout=compact" alt="burneds" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burneds&show_icons=true&locale=en" alt="burneds" /></p>
+<h3 align="left">Stats concerning Me:</h3>
 
+- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burneds&" alt="burneds" /></p>
+<br/>
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burneds&show_icons=true&locale=en&layout=compact" alt="burneds" /></p>
+<br/>
+- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burneds&show_icons=true&locale=en" alt="burneds" /></p>
+
+<h2 align="center">[Email Me](mailto:satyamsundram360@gmail.com)</h2>
