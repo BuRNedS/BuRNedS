@@ -46,3 +46,11 @@
 - <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burneds&show_icons=true&locale=en" alt="burneds" /></p>
 
 <h2 align="center">[Email Me](mailto:satyamsundram360@gmail.com)</h2>
+## Contact
+
+If you have any questions or need further assistance, feel free to reach out.
+
+### Email Me
+
+[Click here to email me](mailto:satyamsundram360@gmail.com)
+
