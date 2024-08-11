@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="left">Link To BurnedFolio:</h3>
-https://burnedfolio.netlify.app/
+https://itsmyburnedfolio.netlify.app/
 
 
 <h3 align="left">Languages and Tools:</h3>
